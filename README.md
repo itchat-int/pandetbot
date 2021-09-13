@@ -1,4 +1,4 @@
-# pandetbot
+# pandetbot 🐼🚫
 
 ## Techical Stack
 
